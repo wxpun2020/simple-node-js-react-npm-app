@@ -16,3 +16,6 @@ the "Test" and "Deliver" stages of your Pipeline.
 This is second Test and VI editor and we are doing second testing for Git
 
 This is Test and VI editor and we are testing for Git
+
+
+next attempt will be my last
